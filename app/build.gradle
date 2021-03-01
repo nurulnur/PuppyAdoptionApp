@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'org.jetbrains.kotlin.android.extensions'
 }
 
 android {
@@ -14,6 +15,10 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    androidExtensions {
+        experimental = true
     }
 
     signingConfigs {
@@ -73,6 +78,8 @@ dependencies {
     implementation "androidx.compose.material:material-icons-extended:$compose_version"
     implementation "androidx.compose.ui:ui-tooling:$compose_version"
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.0'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation "androidx.compose.foundation:foundation:$compose_version"
 
     testImplementation 'junit:junit:4.13.2'
 

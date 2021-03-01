@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Rie",
+    "gender": "Female",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "rie"
+  },
+  {
+    "id": 2,
+    "name": "Lum",
+    "gender": "Male",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "lum"
+  },
+  {
+    "id": 3,
+    "name": "Cik",
+    "gender": "Female",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "cik"
+  },
+  {
+    "id": 4,
+    "name": "Louie",
+    "gender": "Male",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "louie"
+  },
+  {
+    "id": 5,
+    "name": "Gold",
+    "gender": "Male",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "gold"
+  },
+  {
+    "id": 6,
+    "name": "Duo",
+    "gender": "Male",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "duo"
+  },
+  {
+    "id": 7,
+    "name": "Brewster",
+    "gender": "Male",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "brewster"
+  },
+  {
+    "id": 8,
+    "name": "Jack",
+    "gender": "Male",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur mi eget tincidunt vehicula. Ut nec ipsum pellentesque, fringilla eros sed, faucibus risus. Fusce ut nisi urna. Quisque nibh velit, tristique a dapibus nec, blandit vestibulum lorem. Vestibulum gravida turpis aliquet erat tristique bibendum. Nulla pretium euismod fringilla. Aenean augue nulla, pulvinar a purus nec, malesuada vulputate elit. Duis sit amet libero at massa sodales dignissim.",
+    "image": "jack"
+  }
+]
